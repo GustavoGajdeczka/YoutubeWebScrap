@@ -13,6 +13,7 @@ using OpenQA.Selenium.Chrome;
             IWebElement textbox = driver.FindElement(By.Name("q"));
             textbox.SendKeys("Cat Pictures");
 
+            
             textbox.Submit();
             Console.WriteLine(driver.Title);
 
