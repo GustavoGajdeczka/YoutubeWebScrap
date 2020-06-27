@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\WebScrap\\WebScrap.csproj": {}
+    "c:\\Projetos\\WebScrap\\WebScrap.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\WebScrap\\WebScrap.csproj": {
+    "c:\\Projetos\\WebScrap\\WebScrap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\WebScrap\\WebScrap.csproj",
+        "projectUniqueName": "c:\\Projetos\\WebScrap\\WebScrap.csproj",
         "projectName": "WebScrap",
-        "projectPath": "C:\\Projetos\\WebScrap\\WebScrap.csproj",
+        "projectPath": "c:\\Projetos\\WebScrap\\WebScrap.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\WebScrap\\obj\\",
+        "outputPath": "c:\\Projetos\\WebScrap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
