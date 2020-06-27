@@ -1,7 +1,5 @@
 ﻿using System;
 
-namespace WebScrap
-{
     class Program
     {
         static void Main(string[] args)
@@ -9,4 +7,3 @@ namespace WebScrap
             Console.WriteLine("Hello World!");
         }
     }
-}
