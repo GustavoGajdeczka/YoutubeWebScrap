@@ -11,3 +11,6 @@ C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.csproj.CoreCompileInputs.c
 C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.dll
 C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.pdb
 C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.genruntimeconfig.cache
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.csproj.CopyComplete

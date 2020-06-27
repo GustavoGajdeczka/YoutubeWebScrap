@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\WebScrap\\WebScrap.csproj": {}
+    "C:\\Projetos\\WebScrap\\WebScrap.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\WebScrap\\WebScrap.csproj": {
+    "C:\\Projetos\\WebScrap\\WebScrap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\WebScrap\\WebScrap.csproj",
+        "projectUniqueName": "C:\\Projetos\\WebScrap\\WebScrap.csproj",
         "projectName": "WebScrap",
-        "projectPath": "c:\\Projetos\\WebScrap\\WebScrap.csproj",
+        "projectPath": "C:\\Projetos\\WebScrap\\WebScrap.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\WebScrap\\obj\\",
+        "outputPath": "C:\\Projetos\\WebScrap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

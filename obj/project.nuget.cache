@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+1jz6TbMLa04n0Yv4XYuQSQaNegY1HuxTcV1LrrNXxaKifk+XiUQTv+U7mm4ZFwxiDb7oCKWSpu7ia3yfrpeIg==",
+  "dgSpecHash": "F9xqc9vnD7iEJONiZQEGe0pXuQUI9CqKGDt6zVVyzjtYOs6AMEnilWKBxZLRZsHMmiaE4Dc+nyxE9ry9C/twlA==",
   "success": true,
-  "projectFilePath": "c:\\Projetos\\WebScrap\\WebScrap.csproj",
+  "projectFilePath": "C:\\Projetos\\WebScrap\\WebScrap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

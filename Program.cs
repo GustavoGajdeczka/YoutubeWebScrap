@@ -6,11 +6,11 @@ using OpenQA.Selenium.Chrome;
     {
         static void Main(string[] args)
         {
-            IWebDriver driver = new ChromeDriver(@"");
+            IWebDriver driver = new ChromeDriver(@"C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1");
             driver.Url = "https://www.google.com";
 
             Console.WriteLine(driver.Title);
-            IWebElement textbox = driver.FindElement(Byte.Name("q"));
+            IWebElement textbox = driver.FindElement(By.Name("q"));
             textbox.SendKeys("Cat Pictures");
 
             textbox.Submit();
