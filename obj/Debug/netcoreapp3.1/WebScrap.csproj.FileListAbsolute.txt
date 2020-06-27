@@ -1,0 +1,13 @@
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebScrap.exe
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebScrap.deps.json
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebScrap.runtimeconfig.json
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebScrap.runtimeconfig.dev.json
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebScrap.dll
+C:\Projetos\WebScrap\bin\Debug\netcoreapp3.1\WebScrap.pdb
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.csprojAssemblyReference.cache
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.AssemblyInfoInputs.cache
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.AssemblyInfo.cs
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.csproj.CoreCompileInputs.cache
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.dll
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.pdb
+C:\Projetos\WebScrap\obj\Debug\netcoreapp3.1\WebScrap.genruntimeconfig.cache
